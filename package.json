@@ -1,0 +1,14 @@
+{
+  "name": "better-topgg-api",
+  "version": "1.0.4",
+  "description": "",
+  "main": "lib/Topgg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hisoka",
+  "license": "ISC",
+  "dependencies": {
+    "node-superfetch": "^0.1.11"
+  }
+}
